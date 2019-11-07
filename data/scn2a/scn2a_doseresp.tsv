@@ -1,0 +1,162 @@
+measurement	dose	treatment	pct_pbs
+PrP mRNA	0	active ASO 1	1.00
+PrP mRNA	0.08	active ASO 1	0.87
+PrP mRNA	0.25	active ASO 1	1.06
+PrP mRNA	0.74	active ASO 1	1.06
+PrP mRNA	2.22	active ASO 1	1.37
+PrP mRNA	6.67	active ASO 1	0.70
+PrP mRNA	20	active ASO 1	0.65
+PrP mRNA	0	active ASO 1	1.00
+PrP mRNA	0.08	active ASO 1	1.09
+PrP mRNA	0.25	active ASO 1	1.19
+PrP mRNA	0.74	active ASO 1	1.01
+PrP mRNA	2.22	active ASO 1	0.77
+PrP mRNA	6.67	active ASO 1	0.64
+PrP mRNA	20	active ASO 1	0.63
+PrP mRNA	0	active ASO 1	1.00
+PrP mRNA	0.08	active ASO 1	1.13
+PrP mRNA	0.25	active ASO 1	1.02
+PrP mRNA	0.74	active ASO 1	0.97
+PrP mRNA	2.22	active ASO 1	0.83
+PrP mRNA	6.67	active ASO 1	0.80
+PrP mRNA	20	active ASO 1	0.69
+PrP mRNA	0	active ASO 1	1.00
+PrP mRNA	0.08	active ASO 1	1.05
+PrP mRNA	0.25	active ASO 1	0.94
+PrP mRNA	0.74	active ASO 1	0.95
+PrP mRNA	2.22	active ASO 1	0.87
+PrP mRNA	6.67	active ASO 1	0.75
+PrP mRNA	20	active ASO 1	0.62
+PrP mRNA	0	active ASO 2	1.00
+PrP mRNA	0.08	active ASO 2	0.94
+PrP mRNA	0.25	active ASO 2	0.80
+PrP mRNA	0.74	active ASO 2	0.65
+PrP mRNA	2.22	active ASO 2	0.63
+PrP mRNA	6.67	active ASO 2	0.42
+PrP mRNA	20	active ASO 2	0.26
+PrP mRNA	0	active ASO 2	1.00
+PrP mRNA	0.08	active ASO 2	1.00
+PrP mRNA	0.25	active ASO 2	0.78
+PrP mRNA	0.74	active ASO 2	0.80
+PrP mRNA	2.22	active ASO 2	0.57
+PrP mRNA	6.67	active ASO 2	0.40
+PrP mRNA	20	active ASO 2	0.23
+PrP mRNA	0	active ASO 2	1.00
+PrP mRNA	0.08	active ASO 2	0.91
+PrP mRNA	0.25	active ASO 2	0.93
+PrP mRNA	0.74	active ASO 2	0.75
+PrP mRNA	2.22	active ASO 2	0.64
+PrP mRNA	6.67	active ASO 2	0.40
+PrP mRNA	20	active ASO 2	0.21
+PrP mRNA	0	active ASO 2	1.00
+PrP mRNA	0.08	active ASO 2	1.05
+PrP mRNA	0.25	active ASO 2	0.93
+PrP mRNA	0.74	active ASO 2	0.82
+PrP mRNA	2.22	active ASO 2	0.69
+PrP mRNA	6.67	active ASO 2	0.55
+PrP mRNA	20	active ASO 2	0.21
+PrP mRNA	0	control ASO 3	1.00
+PrP mRNA	0.08	control ASO 3	1.24
+PrP mRNA	0.25	control ASO 3	0.92
+PrP mRNA	0.74	control ASO 3	0.99
+PrP mRNA	2.22	control ASO 3	0.98
+PrP mRNA	6.67	control ASO 3	0.85
+PrP mRNA	20	control ASO 3	0.91
+PrP mRNA	0	control ASO 3	1.00
+PrP mRNA	0.08	control ASO 3	1.03
+PrP mRNA	0.25	control ASO 3	0.94
+PrP mRNA	0.74	control ASO 3	0.97
+PrP mRNA	2.22	control ASO 3	1.02
+PrP mRNA	6.67	control ASO 3	0.54
+PrP mRNA	20	control ASO 3	1.03
+PrP mRNA	0	control ASO 3	1.00
+PrP mRNA	0.08	control ASO 3	1.06
+PrP mRNA	0.25	control ASO 3	1.15
+PrP mRNA	0.74	control ASO 3	0.99
+PrP mRNA	2.22	control ASO 3	1.28
+PrP mRNA	6.67	control ASO 3	1.15
+PrP mRNA	20	control ASO 3	1.11
+PrP mRNA	0	control ASO 3	1.00
+PrP mRNA	0.08	control ASO 3	1.05
+PrP mRNA	0.25	control ASO 3	1.13
+PrP mRNA	0.74	control ASO 3	1.00
+PrP mRNA	2.22	control ASO 3	0.97
+PrP mRNA	6.67	control ASO 3	1.06
+PrP mRNA	20	control ASO 3	1.01
+total PrP (-PK)	0	active ASO 1	1.00
+total PrP (-PK)	0.08	active ASO 1	1.25
+total PrP (-PK)	0.25	active ASO 1	1.40
+total PrP (-PK)	0.74	active ASO 1	0.93
+total PrP (-PK)	2.22	active ASO 1	1.01
+total PrP (-PK)	6.67	active ASO 1	1.15
+total PrP (-PK)	20	active ASO 1	0.51
+total PrP (-PK)	0	active ASO 1	1.00
+total PrP (-PK)	0.08	active ASO 1	0.87
+total PrP (-PK)	0.25	active ASO 1	0.66
+total PrP (-PK)	0.74	active ASO 1	0.60
+total PrP (-PK)	2.22	active ASO 1	0.67
+total PrP (-PK)	6.67	active ASO 1	0.36
+total PrP (-PK)	20	active ASO 1	0.28
+total PrP (-PK)	0	active ASO 2	1.00
+total PrP (-PK)	0.08	active ASO 2	0.88
+total PrP (-PK)	0.25	active ASO 2	0.58
+total PrP (-PK)	0.74	active ASO 2	0.85
+total PrP (-PK)	2.22	active ASO 2	0.40
+total PrP (-PK)	6.67	active ASO 2	0.15
+total PrP (-PK)	20	active ASO 2	0.10
+total PrP (-PK)	0	active ASO 2	1.00
+total PrP (-PK)	0.08	active ASO 2	1.22
+total PrP (-PK)	0.25	active ASO 2	0.85
+total PrP (-PK)	0.74	active ASO 2	0.60
+total PrP (-PK)	2.22	active ASO 2	0.48
+total PrP (-PK)	6.67	active ASO 2	0.27
+total PrP (-PK)	20	active ASO 2	0.04
+total PrP (-PK)	0	control ASO 3	1.00
+total PrP (-PK)	0.08	control ASO 3	1.05
+total PrP (-PK)	0.25	control ASO 3	1.14
+total PrP (-PK)	0.74	control ASO 3	1.08
+total PrP (-PK)	2.22	control ASO 3	1.09
+total PrP (-PK)	6.67	control ASO 3	0.74
+total PrP (-PK)	20	control ASO 3	1.00
+total PrP (-PK)	0	control ASO 3	1.00
+total PrP (-PK)	0.08	control ASO 3	0.80
+total PrP (-PK)	0.25	control ASO 3	1.02
+total PrP (-PK)	0.74	control ASO 3	0.73
+total PrP (-PK)	2.22	control ASO 3	0.55
+total PrP (-PK)	6.67	control ASO 3	0.78
+total PrP (-PK)	20	control ASO 3	0.85
+PrPSc (+PK)	0	active ASO 1	1.00
+PrPSc (+PK)	0.08	active ASO 1	0.96
+PrPSc (+PK)	0.25	active ASO 1	1.36
+PrPSc (+PK)	0.74	active ASO 1	0.54
+PrPSc (+PK)	2.22	active ASO 1	0.61
+PrPSc (+PK)	6.67	active ASO 1	0.52
+PrPSc (+PK)	20	active ASO 1	0.35
+PrPSc (+PK)	0	active ASO 2	1.00
+PrPSc (+PK)	0.08	active ASO 2	1.44
+PrPSc (+PK)	0.25	active ASO 2	0.80
+PrPSc (+PK)	0.74	active ASO 2	0.77
+PrPSc (+PK)	2.22	active ASO 2	0.41
+PrPSc (+PK)	6.67	active ASO 2	0.30
+PrPSc (+PK)	20	active ASO 2	0.24
+PrPSc (+PK)	0	active ASO 2	1.00
+PrPSc (+PK)	0.08	active ASO 2	0.95
+PrPSc (+PK)	0.25	active ASO 2	0.91
+PrPSc (+PK)	0.74	active ASO 2	0.72
+PrPSc (+PK)	2.22	active ASO 2	0.82
+PrPSc (+PK)	6.67	active ASO 2	0.38
+PrPSc (+PK)	20	active ASO 2	0.23
+PrPSc (+PK)	0	control ASO 3	1.00
+PrPSc (+PK)	0.08	control ASO 3	1.37
+PrPSc (+PK)	0.25	control ASO 3	1.43
+PrPSc (+PK)	0.74	control ASO 3	0.66
+PrPSc (+PK)	2.22	control ASO 3	0.65
+PrPSc (+PK)	6.67	control ASO 3	0.42
+PrPSc (+PK)	20	control ASO 3	0.88
+PrPSc (+PK)	0	control ASO 3	1.00
+PrPSc (+PK)	0.08	control ASO 3	0.91
+PrPSc (+PK)	0.25	control ASO 3	0.51
+PrPSc (+PK)	0.74	control ASO 3	0.88
+PrPSc (+PK)	2.22	control ASO 3	0.53
+PrPSc (+PK)	6.67	control ASO 3	0.45
+PrPSc (+PK)	20	control ASO 3	0.54

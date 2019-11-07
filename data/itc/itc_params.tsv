@@ -1,0 +1,9 @@
+display	type	y
+control ASO 0	MOE gapmer, all PS	8
+active ASO 1	MOE/cEt gapmer, PS/PO	7
+active ASO 2	MOE/cEt gapmer, PS/PO	6
+control ASO 3	MOE/cEt gapmer, PS/PO	5
+control ASO 4	MOE gapmer, PS/PO	4
+active ASO 6	MOE gapmer, PS/PO	3
+active ASO 7	MOE gapmer, PS/PO	2
+active ASO 8	MOE gapmer, PS/PO	1
